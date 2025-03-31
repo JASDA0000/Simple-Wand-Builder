@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "wand_builder",
+		"description": "wand_builder Behavior Pack",
+		"uuid": "9d721730-bba0-29af-5d51-f41c4ce10595",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 20, 0]
+	},
+	"metadata": {
+		"authors": ["Jxsdx"],
+		"generated_with": {
+			"blockbench_item_wizard": ["1.2.0"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "a2c01b9f-fdcf-a87c-05f0-d975f9c51225",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "81c5c0ae-fb13-2ee2-9e5f-c460ffb34814",
+			"version": [1, 0, 0]
+		}
+	]
+}

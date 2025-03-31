@@ -1,0 +1,26 @@
+{
+    "format_version": "1.20",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "wand_builder:diamond_wand"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "  d",
+            " # ",
+            "#  "
+        ],
+        "key": {
+            "d": {
+                "item": "minecraft:diamond"
+            },
+            "#": {
+                "item": "minecraft:stick"
+            }
+        },
+        "result": {
+            "item": "wand_builder:diamond_wand",
+            "count": 1
+        }
+    }
+}

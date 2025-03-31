@@ -1,0 +1,23 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.diamond_wand.first_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [27.80877, -11.734, -128.91439],
+					"position": [7.44281, 27.36288, 5.10756]
+				}
+			}
+		},
+		"animation.diamond_wand.third_person_hold": {
+			"loop": true,
+			"bones": {
+				"root_item": {
+					"rotation": [90.06854, 0.34457, -87.52435],
+					"position": [0.5, 23.53528, 3.3637]
+				}
+			}
+		}
+	}
+}

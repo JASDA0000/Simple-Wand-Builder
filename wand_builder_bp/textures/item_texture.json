@@ -1,0 +1,8 @@
+{
+	"resource_pack_name": "Wand Builder Rescource",
+	"texture_data": {
+		"diamond_wand": {
+			"textures": "textures/items/diamond_wand.png"
+		}
+	}
+}
